@@ -4,6 +4,7 @@ export const TransactionHistoryContainer = styled.table`
   table-layout: fixed;
   width: 480px;
   margin: 0px auto;
+  background: white;
   border-collapse: collapse;
   border: 3px solid green;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2), 0 16px 20px rgba(0, 0, 0, 0.2);
